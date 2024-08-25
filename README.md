@@ -1,6 +1,6 @@
 # DataStructuresWork
 
-A collection of my homework and projects from my Data Structures & Algorithms class, including write-ups and code. Wrtten in Java.
+A collection of my homework and projects from my Data Structures & Algorithms class, including write-ups and code. Written in Java.
 
 ## Unit 0: A Java Review
 
