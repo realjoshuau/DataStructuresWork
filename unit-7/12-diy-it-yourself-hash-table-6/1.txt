@@ -1,0 +1,68 @@
+
+Enter length: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: [+] Collision detected at bucket 5!. CC = 1
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: [+] Collision detected at bucket 5!. CC = 1
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: [+] Collision detected at bucket 0!. CC = 1
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: [+] Collision detected at bucket 8!. CC = 1
+[+] Collision detected at bucket 0!. CC = 2
+Table is full !
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter Operating System: Enter Manufacture Year: Enter Serial Number: [+] Collision detected at bucket 0!. CC = 1
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter key: Found in bucket 7!
+A Windows Computer created in 1998. [37]
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter key: 1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
+Enter key: Found in bucket 7!
+A Windows Computer created in 1998. [37]
+1. Insert a new element
+2. Remove an element
+3. Find an element
+4. Quit
